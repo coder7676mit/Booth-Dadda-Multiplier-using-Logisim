@@ -3,7 +3,6 @@
 Welcome to the structural design and simulation repository for the **16x16 radix-4 Booth-Dadda Multiplier**. This project was developed as part of the Digital Computer Architecture (DCA) coursework at the Manipal Institute of Technology, MAHE.
 
 ### 📄 [Download the Full IEEE Project Report Here](./report.docx)
-*(Note: Ensure your compiled report is named `report.pdf` in your repository for this direct link to work, or update the filename accordingly).*
 
 ---
 
